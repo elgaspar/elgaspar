@@ -4,7 +4,7 @@
   "role": "Lead Software Engineer",
   "location": "Cyprus",
   "contact": {
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "linkedin": "https://www.linkedin.com/in/iliasgas/"
   },
   "learning": ["Vue.js", "Golang"]
 }
