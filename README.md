@@ -5,7 +5,7 @@
     "location": "Cyprus",
     "contact": {
         "linkedin": "https://www.linkedin.com/in/iliasgas/",
-        "website": "https://www.elgaspar.com"
+        "website": "https://elgaspar.com"
     },
     "learning": ["Vue.js", "Python"]
 }
