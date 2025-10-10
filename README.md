@@ -7,6 +7,6 @@
         "linkedin": "https://www.linkedin.com/in/iliasgas/",
         "website": "https://elgaspar.com"
     },
-    "learning": ["Vue.js", "Python"]
+    "learning": ["React", "Python"]
 }
 ```
