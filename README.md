@@ -1,7 +1,7 @@
 ```json
 {
     "name": "Elias Gasparis",
-    "role": "Lead Software Engineer",
+    "role": "Software Engineer",
     "location": "Cyprus",
     "contact": {
         "linkedin": "https://www.linkedin.com/in/iliasgas/",
